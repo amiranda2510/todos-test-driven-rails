@@ -1,24 +1,19 @@
-# README
+# TODO TEST-DRIVEN RAILS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Todo app exercise for the course Test-Driven Rails
 
-Things you may want to cover:
+## Stack: 
+* Ruby: 2.7.3
+* Rails: 6.1.3
+* DB: Postgres
+* Testing: RSpec, Capybara
 
-* Ruby version
+## Gems: 
+* gem rspec-rails
+* gem capybara
+* gem database_cleaner
 
-* System dependencies
+## Course: 
+https://thoughtbot.com/upcase/test-driven-rails
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
